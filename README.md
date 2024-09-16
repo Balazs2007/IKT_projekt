@@ -1,3 +1,6 @@
-# IKT_prolyekt
-Ez egy ilyen prolyekt type shit (fr)
-Balázs, A bucsányi is, Meg az ÁDÁM
+# IKT_projekt_2024.09.16
+Projekt IKT órára
+Dev:
+Kurucsai Balázs
+Bucsányi Balázs
+Hegedűs Ádám
