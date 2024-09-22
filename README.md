@@ -4,3 +4,10 @@ Dev:
 Kurucsai Balázs
 Bucsányi Balázs
 Hegedűs Ádám
+
+K. Balázs források:
+Streetkitchen.hu
+nosalty.hu
+nyiregyhaza.hu
+mindmegette.hu
+szekertanyapizzeria.hu
