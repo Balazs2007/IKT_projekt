@@ -12,7 +12,7 @@ ul {
     display: block;
     color: rgb(255, 255, 255);
     text-align: center;
-    padding: 14px 14.799%;
+    padding: 14px 100px;
     text-decoration: none;
   }
   
@@ -39,6 +39,8 @@ div {
 
 body{
   background: rgb(187, 187, 187);
+  color: rgb(0, 0, 0);
+  background-image: url(https://t4.ftcdn.net/jpg/02/92/73/13/360_F_292731351_p4objwWzlIieS2Kh7kbWVWmOhNrNE5Ft.jpg);
 }
 
 .list-group-item {
