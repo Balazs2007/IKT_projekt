@@ -1,25 +1,47 @@
+#navbar {
+  position: sticky;
+  top: 0;
+  overflow: hidden
+}
+
+
 ul {
     list-style-type: none;
-    margin: 0;
+    margin: 10px;
     padding: 0;
     overflow: hidden;
-    background-color: #333333;
+    display: block;
   }
+
   
   
   li a {
     float: left;
-    display: block;
     color: rgb(255, 255, 255);
     text-align: center;
     padding: 14px 100px;
     text-decoration: none;
+    background-color: #333333;
+    border-radius: 10px;
+    margin-left: 5%;
   }
   
   li a:hover {
     background-color: #9f00ad;
     color: rgb(0, 255, 234); 
+    animation-name: SigmaGrindset;
+    animation-duration: 0.5s;
   }
+  li:hover {
+    color: rgb(0, 255, 234); 
+    animation-name: SigmaGrindset;
+    animation-duration: 1s;
+  }
+
+@keyframes SigmaGrindset {
+  from {background-color: #333333;}
+  to {background-color: #9f00ad;}
+}
 
 div h1 {
   padding-top: 30px;
@@ -41,6 +63,7 @@ body{
   background: rgb(187, 187, 187);
   color: rgb(0, 0, 0);
   background-image: url(https://t4.ftcdn.net/jpg/02/92/73/13/360_F_292731351_p4objwWzlIieS2Kh7kbWVWmOhNrNE5Ft.jpg);
+  background-size: cover;
 }
 
 .list-group-item {
