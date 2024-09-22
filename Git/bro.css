@@ -3,18 +3,16 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #ffd900;
+    background-color: #333333;
   }
   
-  li {
-    float: left;
-  }
   
   li a {
+    float: left;
     display: block;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
-    padding: 14px 30px;
+    padding: 14px 141px;
     text-decoration: none;
   }
   
@@ -40,9 +38,10 @@ div {
 }
 
 body{
-  background: yellow;
+  background: rgb(187, 187, 187);
 }
 
 .list-group-item {
-  background-color: yellow;
+  background-color: rgb(171, 0, 194);
+  color: aliceblue;
 }
