@@ -11,3 +11,7 @@ nosalty.hu
 nyiregyhaza.hu
 mindmegette.hu
 szekertanyapizzeria.hu
+
+Hegedűs Ádám források:
+tutireceptek.hu
+thegastropirates.blogspot.com
