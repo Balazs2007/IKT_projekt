@@ -22,3 +22,27 @@ ul {
     background-color: #9f00ad;
     color: rgb(0, 255, 234); 
   }
+
+div h1 {
+  padding-top: 30px;
+}
+
+img {
+  width: 500px;
+}
+
+.row {
+  padding: 0px;
+}
+
+div {
+  padding: 0px;
+}
+
+body{
+  background: yellow;
+}
+
+.list-group-item {
+  background-color: yellow;
+}
