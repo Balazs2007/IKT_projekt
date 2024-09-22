@@ -1,9 +1,8 @@
 #navbar {
   position: sticky;
   top: 0;
-  overflow: hidden
+  overflow: hidden;
 }
-
 
 ul {
     list-style-type: none;
@@ -31,16 +30,26 @@ ul {
     color: rgb(0, 255, 234); 
     animation-name: SigmaGrindset;
     animation-duration: 0.5s;
+    transition: 0.3s ease;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
   li:hover {
     color: rgb(0, 255, 234); 
     animation-name: SigmaGrindset;
     animation-duration: 1s;
+    transition: 0.3s ease;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
 @keyframes SigmaGrindset {
   from {background-color: #333333;}
   to {background-color: #9f00ad;}
+}
+
+#kep:hover{
+  transition: 0.3s ease;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  opacity: 0.9;
 }
 
 div h1 {
